@@ -17,7 +17,7 @@
 | [CPT-1207-5LTH-T](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices-/CPT-1207-5LTH-T/29292285?gclsrc=aw.ds&gad_source=1&gad_campaignid=22396853673&gbraid=0AAAAADrbLlhHUqjsReuUhjpwJcYp7C2rM&gclid=CjwKCAjw56zWBhB0EiwAdPOQOe0OGJpHZyqB2EOU341Nbz0jpmYiDnnPEdks_wxhXMVqUUiKe2oIjBoC6ToQAvD_BwE) | buzzer | 1 | $0.78 | $0.78 | [Digikey](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices-/CPT-1207-5LTH-T/29292285?gclsrc=aw.ds&gad_source=1&gad_campaignid=22396853673&gbraid=0AAAAADrbLlhHUqjsReuUhjpwJcYp7C2rM&gclid=CjwKCAjw56zWBhB0EiwAdPOQOe0OGJpHZyqB2EOU341Nbz0jpmYiDnnPEdks_wxhXMVqUUiKe2oIjBoC6ToQAvD_BwE) |
 | [HS96L03W2C03](https://www.lcsc.com/product-detail/C5248080.html) | OLED | 1 | $2.31 | $2.31 | [LCSC](https://www.lcsc.com/product-detail/C5248080.html) |
 | **Parts subtotal** | — | — | — | **$4.98** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$4.98** | — |
+| **Tax & shipping** | — | — | — | **$8.71** | — |
+| **Total** | — | — | — | **$13.69** | — |
 
-$25.02 left of the tier's funding.
+$16.31 left of the tier's funding.
